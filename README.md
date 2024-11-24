@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
-
 <h1 align="center">Hi 👋, I'm Janith Suraweera</h1>
 <h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
 
@@ -27,14 +23,19 @@
 
 ---
 
-### 🌟 About Me:
+
+
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me
+<img align="right" src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width=30%>
+
+
 - 🔭 Currently working on: **[MR.Veg](https://github.com/janithsuraweera/MR.Veg.git)**  
 - 🌱 Currently learning: **Android, iOS, Flutter, React, Node.js, Cypress, Appwrite**  
 - 👨‍💻 Check out my projects: **[GitHub Profile](https://github.com/janithsuraweera)**  
 - 💬 Ask me about: **Web Development, iOS Apps, Android Apps**  
 - 📫 Contact me at: **janithsuraweera1@gmail.com**  
 - ⚡ Fun fact: **Call me Janith!**
-
+<br><br>
 ---
 
 <h3 align="center">💻 Languages & Tools:</h3>
@@ -167,28 +168,37 @@
   </table>
 
 ---
+## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="100px"> Connect with me
+<br>
+<p align="center">
+	<a href="janithsuraweera7@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/janithsuraweera"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/94762060052"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/janith-suraweera-510888203"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/janith.suraweera.58"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/janithsuraweera/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+<br>
+
+---
+<table border="5px">
+<td>
+<center>
+
+## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="250px">
-</p>
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake-dark%201.svg">
+		  <source media="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake%202.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake-dark%201.svg">
+	</picture>
 
-<p align="center">
-  <a href="https://twitter.com/janithsuraweera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/janith-suraweera-510888203" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/janith.suraweera.58" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/janithsuraweera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@janith_suraweera" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
 </p>
+</td>
+</table>
+
+</center>
 
 ---
 <h3 align="center">Support:</h3>
