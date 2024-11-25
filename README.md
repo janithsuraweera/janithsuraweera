@@ -13,14 +13,6 @@
     <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers">
   </a>
   
-  
-</p>
-<p  align="center">
-   <a href="https://www.linkedin.com/in/janith-suraweera-510888203/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Connect" />
-  </a>
-</p>
-
 ---
 
 
