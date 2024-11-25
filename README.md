@@ -1,5 +1,4 @@
 <div align="center">
-<!--   <div aling center="janith" -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+Mono&weight=1000&size=34&pause=900&color=39C71A&background=FF050500&center=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera)](https://git.io/typing-svg)
   
 </div>
