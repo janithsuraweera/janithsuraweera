@@ -1,7 +1,9 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cascadia+Mono&weight=1000&size=34&pause=900&color=39C71A&background=FF050500&center=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera)](https://git.io/typing-svg)
-  
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=39C71A&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera" alt="Typing SVG">
+  </a>
+</p>
+
 
 
 <h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
@@ -11,9 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/janithsuraweera" target="_blank">
+  <a href="https://twitter.com/janithsuraweera?" target="_blank">
     <img src="https://img.shields.io/twitter/follow/janithsuraweera?logo=x&style=for-the-badge" alt="X Follow">
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/janithsuraweera?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers">
   </a>
