@@ -37,7 +37,7 @@
   <td>
     <ul>
       <li>🔭 Currently working on: <b><a href="https://github.com/janithsuraweera/MR.Veg.git">MR.Veg</a></b></li>
-      <li>🌱 Currently learning: <b>Android, iOS, Flutter, React, Node.js, Cypress, Appwrite</b></li>
+      <li>🌱 Currently learning: <b>Android, iOS, Flutter, React, Node.js Appwrite</b></li>
       <li>👨‍💻 Check out my projects: <b><a href="https://github.com/janithsuraweera">GitHub Profile</a></b></li>
       <li>💬 Ask me about: <b>Web Development, iOS Apps, Android Apps</b></li>
       <li>📫 Contact me at: <b>janithsuraweera1@gmail.com</b></li>
