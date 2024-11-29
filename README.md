@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=39C71A&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera" alt="Typing SVG">
   </a>
 </p>
-
+<p align="center">
+  <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="cover_image" />
+</p>
 
 
 <h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
@@ -26,20 +28,32 @@
 
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me
-<img align="right" src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width=30%>
 
 
-- 🔭 Currently working on: **[MR.Veg](https://github.com/janithsuraweera/MR.Veg.git)**  
-- 🌱 Currently learning: **Android, iOS, Flutter, React, Node.js, Cypress, Appwrite**  
-- 👨‍💻 Check out my projects: **[GitHub Profile](https://github.com/janithsuraweera)**  
-- 💬 Ask me about: **Web Development, iOS Apps, Android Apps**  
-- 📫 Contact me at: **janithsuraweera1@gmail.com**  
-- ⚡ Fun fact: **Call me Janith!**
-<br><br>
+
+<table>
+<tr>
+
+  <td>
+    <ul>
+      <li>🔭 Currently working on: <b><a href="https://github.com/janithsuraweera/MR.Veg.git">MR.Veg</a></b></li>
+      <li>🌱 Currently learning: <b>Android, iOS, Flutter, React, Node.js, Cypress, Appwrite</b></li>
+      <li>👨‍💻 Check out my projects: <b><a href="https://github.com/janithsuraweera">GitHub Profile</a></b></li>
+      <li>💬 Ask me about: <b>Web Development, iOS Apps, Android Apps</b></li>
+      <li>📫 Contact me at: <b>janithsuraweera1@gmail.com</b></li>
+      <li>⚡ Fun fact: <b>Call me Janith!</b></li>
+    </ul>
+  </td>
+    <td align="center">
+    <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
+  </td>
+</tr>
+</table>
+
 ---
 
 <h3 align="center">💻 Languages & Tools:</h3>
-<p align="center=r">
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
@@ -148,7 +162,10 @@
 ---
 
 <h3 align="center">My Statistics:</h3>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=janithsuraweera&margin-w=10&margin-h=15&column=6" alt="Trophies" />
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=janithsuraweera&margin-w=10&margin-h=15&column=8" alt="Trophies" />
+</p>
+
 <p align="center">
 <table align="center">
 <tr border="none">
