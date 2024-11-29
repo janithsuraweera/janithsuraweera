@@ -184,21 +184,12 @@
   
   </table>
 
----
-## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="100px"> Connect with me
-<br>
-<p align="center">
-	<a href="janithsuraweera7@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/janithsuraweera"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/94762060052"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/janith-suraweera-510888203"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/janith.suraweera.58"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/janithsuraweera/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-<br>
+
 
 ---
+
 <table border="5px">
+	
 <td>
 <center>
 
@@ -218,6 +209,39 @@
 </center>
 
 ---
+
+<br>
+
+## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="150px"> Connect with me
+<br>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+	<a href="mailto:janithsuraweera7@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 40px;"/>
+    </a>
+	<a href="https://github.com/janithsuraweera">
+        <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" style="width: 150px; height: 40px;"/>
+    </a>
+	<a href="https://wa.me/94762060052">
+        <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" style="width: 150px; height: 40px;"/>
+    </a>
+	<a href="https://www.linkedin.com/in/janith-suraweera-510888203">
+        <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 40px;"/>
+    </a>
+	<a href="https://www.facebook.com/janith.suraweera.58">
+        <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" style="width: 150px; height: 40px;"/>
+    </a>
+	<a href="https://www.instagram.com/janithsuraweera/">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" style="width: 150px; height: 40px;"/>
+    </a>
+</p>
+
+<br>
+
+---
+
+<br>
+
+
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/janithsuraweera">
