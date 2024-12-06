@@ -216,7 +216,7 @@
 <br>
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="mailto:janithsuraweera7@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" style="width: 100px; height: 40px;"/>
+        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 40px;"/>
     </a>
 	<a href="https://github.com/janithsuraweera">
         <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" style="width: 150px; height: 40px;"/>
