@@ -3,6 +3,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=39C71A&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera" alt="Typing SVG">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=700&color=F7F7F&center=true&width=500&height=50&lines=Ui%2FUx+Design;Software+Development;Web+Development" alt="Typing SVG">
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="cover_image" />
 </p>
