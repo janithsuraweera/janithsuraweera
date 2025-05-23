@@ -269,6 +269,8 @@
 
 ## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="150px"> Connect with me
 <br>
+
+
 <!-- <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="mailto:janithsuraweera7@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 40px;"/>
@@ -314,8 +316,6 @@
   </a> -->
 </p>
 
-<br>
----
 <br>
 
 <!--<h3 align="center">Support:</h3>
