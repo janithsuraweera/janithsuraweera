@@ -43,7 +43,7 @@
 <tr>
 
   <td>
-    <ul>
+<!--     <ul>
       <li>🔭 Currently working on: <b><a href="https://github.com/janithsuraweera/MR.Veg.git">MR.Veg</a></b></li>
       <li>🌱 Currently learning: <b>Android, iOS, Flutter, React, Node.js Appwrite</b></li>
       <li>👨‍💻 Check out my projects: <b><a href="https://github.com/janithsuraweera">GitHub Profile</a></b></li>
@@ -51,12 +51,43 @@
       <li>📫 Contact me at: <b>janithsuraweera1@gmail.com</b></li>
       <li>⚡ Fun fact: <b>Call me Janith!</b></li>
     </ul>
+ -->
+
+
+- 🔭 **Currently working on:** [MR.Veg](https://github.com/janithsuraweera/MR.Veg) – A smart marketplace for fresh produce.
+- 🌱 **Currently learning:** Android, iOS, Flutter, React, Node.js, Appwrite
+- 🧠 **Exploring:** Backend architecture, UI/UX design, cross-platform mobile development
+- 🚀 **Latest Projects:**
+  - 🎯 [CCTV Quotation System](https://github.com/janithsuraweera/cctv-quotation-system) – Generate custom quotations with PDF support.
+  - 🌿 [Sprout Hub](https://github.com/janithsuraweera/sprout-hub) – Urban farming community and marketplace platform.
+  - 🎹 [Custom Android Keyboard](https://github.com/janithsuraweera/custom-keyboard) – Fully customizable material-style keyboard with popup previews.
+- 💬 **Ask me about:** Web Development, Mobile Apps, REST APIs, Firebase, MongoDB
+- 📫 **Contact me at:** [janithsuraweera7@gmail.com](mailto:janithsuraweera7@gmail.com)
+- ⚡ **Fun fact:** I turn coffee into code — and bugs into features 😄
+   
   </td>
     <td align="center">
     <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
   </td>
 </tr>
 </table>
+
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 ---
 
