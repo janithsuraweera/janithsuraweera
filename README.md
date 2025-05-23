@@ -164,9 +164,6 @@
 </p>
 
 
-
-
-
 ---
 
 <h3 align="center">My Statistics:</h3>
@@ -222,7 +219,7 @@
 
 ## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="150px"> Connect with me
 <br>
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<!-- <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 	<a href="mailto:janithsuraweera7@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" style="width: 150px; height: 40px;"/>
     </a>
@@ -241,6 +238,30 @@
 	<a href="https://www.instagram.com/janithsuraweera/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" style="width: 150px; height: 40px;"/>
     </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/janithsuraweera" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/janith-suraweera-510888203" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/janithsuraweera/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/janithsuraweera" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="mailto:janithsuraweera7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/94762060052" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+<!--   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a> -->
 </p>
 
 <br>
