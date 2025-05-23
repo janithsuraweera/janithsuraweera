@@ -264,9 +264,7 @@
 
 </div>
 
-
 ---
-
 <br>
 
 ## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="150px"> Connect with me
@@ -317,15 +315,23 @@
 </p>
 
 <br>
-
 ---
-
 <br>
 
-
-<h3 align="center">Support:</h3>
+<!--<h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/janithsuraweera">
+  
+<a href="https://www.buymeacoffee.com/janithsuraweera">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
   </a>
+</p>-->
+<h2 align="center">☕ Support Me</h2>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/janithsuraweera1" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=janithsuraweera1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="50" />
+  </a>
 </p>
+
+
+
