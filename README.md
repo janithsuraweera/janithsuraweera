@@ -74,7 +74,7 @@
 
 
 ---
-
+<h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -91,7 +91,7 @@
 
 ---
 
-<h3 align="center">💻 Languages & Tools:</h3>
+<h2 align="center">💻 Languages & Tools:</h2>
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -197,52 +197,73 @@
 
 ---
 
-<h3 align="center">My Statistics:</h3>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=janithsuraweera&margin-w=10&margin-h=15&column=8" alt="Trophies" />
-</p>
-
-<p align="center">
+	
 <table align="center">
+
 <tr border="none">
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithsuraweera&show_icons=true&locale=en" alt="GitHub Stats" />
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithsuraweera&show_icons=true&locale=en" alt="GitHub Stats" />
+-->
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsuraweera" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=janithsuraweera&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="auto" alt="GitHub Stats"/>
+
+<!--GitHub Streak-->
+
+<!--<img align="center"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsuraweera" alt="GitHub Streak"/>-->
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsuraweera&theme=dark" alt="GitHub Streak" />
+
 </td>
+
+
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithsuraweera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-
+<!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithsuraweera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <p align="center">-->
+	  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithsuraweera&layout=compact&theme=radical&border_radius=10&hide_border=true" width="auto" height="auto" />
+</p>
 </td>
-  
-  </table>
 
+</table>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=janithsuraweera&margin-w=10&margin-h=15&column=8" alt="Trophies" />
+</p> -->
+
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=janithsuraweera&theme=radical&no-bg=true&no-frame=true&margin-w=15&row=1" />
+</p>
 
 ---
 
-<table border="5px">
-	
-<td>
-<center>
 
-## 🐍 A Snake Eating My Contributions Graph
+<!--A Snake Eating My Contributions Graph-->
+<h2 align="center">🐍 A Snake Eating My Contributions Graph</h2>
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake-dark%201.svg">
-		  <source media="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake%202.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake-dark%201.svg">
-	</picture>
+<div align="center" style="
+  padding: 20px; 
+  max-width: 650px; 
+  margin: 30px auto; 
+  background-color: #4a00e0;  /* fallback solid color */
+  border-radius: 20px; 
+  box-shadow: 0 8px 20px rgba(37, 117, 252, 0.6);
+  border: 3px solid #fff;
+">
 
-</p>
-</td>
-</table>
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/janithsuraweera/janithsuraweera/refs/heads/main/Gifs/github-contribution-grid-snake-dark%201.svg"
+    style="border-radius: 15px; max-width: 100%; box-shadow: 0 0 15px rgba(255, 255, 255, 0.7);"
+  />
 
-</center>
+</div>
+
 
 ---
 
