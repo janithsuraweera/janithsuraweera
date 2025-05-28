@@ -60,7 +60,7 @@
 - 🚀 **Latest Projects:**
   - 🎯 [CCTV Quotation System](https://github.com/janithsuraweera/cctv-quotation-system) – Generate custom quotations with PDF support.
   - 🌿 [Sprout Hub](https://github.com/janithsuraweera/sprout-hub) – Urban farming community and marketplace platform.
-  - 🎹 [Custom Android Keyboard](https://github.com/janithsuraweera/custom-keyboard) – Fully customizable material-style keyboard with popup previews.
+  - 📱 [Android Keyboard](https://github.com/janithsuraweera/keyboard_app) – Fully customizable material-style keyboard with popup previews.
 - 💬 **Ask me about:** Web Development, Mobile Apps, REST APIs, Firebase, MongoDB
 - 📫 **Contact me at:** [janithsuraweera7@gmail.com](mailto:janithsuraweera7@gmail.com)
 - ⚡ **Fun fact:** I turn coffee into code — and bugs into features 😄
