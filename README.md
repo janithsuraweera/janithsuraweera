@@ -58,9 +58,14 @@
 - 🌱 **Currently learning:** Android, iOS, Flutter, React, Node.js, Appwrite
 - 🧠 **Exploring:** Backend architecture, UI/UX design, cross-platform mobile development
 - 🚀 **Latest Projects:**
-  - 🎯 [CCTV Quotation System](https://github.com/janithsuraweera/cctv-quotation-system) – Generate custom quotations with PDF support.
-  - 🌿 [Sprout Hub](https://github.com/janithsuraweera/sprout-hub) – Urban farming community and marketplace platform.
+  - 🚗 [Vehical-Service](https://github.com/janithsuraweera/Vehical-Service) – developing vehical service center.using React.js.
+  - 🌿 [Sprout Hub](https://github.com/janithsuraweera/Sprout_Hub) – Urban farming community and marketplace platform.
+  - 🎙️ [Auto-text-to-voice-reader](https://github.com/janithsuraweera/Auto-text-to-voice-reader) – Auto-text-to-voice-reader in English.
+  - 🖐️ [Hand gesture recognition tool](https://github.com/janithsuraweera/keyboard_app) – Hand gesture recognition tool.
   - 📱 [Android Keyboard](https://github.com/janithsuraweera/keyboard_app) – Fully customizable material-style keyboard with popup previews.
+  - 🎯 [CCTV Quotation System](https://github.com/janithsuraweera/cctv-quotation-system) – Generate custom quotations with PDF support.
+
+    
 - 💬 **Ask me about:** Web Development, Mobile Apps, REST APIs, Firebase, MongoDB
 - 📫 **Contact me at:** [janithsuraweera7@gmail.com](mailto:janithsuraweera7@gmail.com)
 - ⚡ **Fun fact:** I turn coffee into code — and bugs into features 😄
