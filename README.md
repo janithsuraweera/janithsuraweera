@@ -10,10 +10,16 @@
   </a>
 </p>
 
-
+<!--
 <p align="center">
-  <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="cover_image" />
+  <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png " alt="Personal Website" />
 </p>
+-->
+
+<a href="https://janithsuraweera.github.io/Portfolio/" target="_blank">
+<img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="Click to open Portfolio" style="cursor:pointer; width:auto;">
+</a>
+
 
 
 <h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
@@ -22,11 +28,15 @@
   <img src="https://komarev.com/ghpvc/?username=janithsuraweera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!--
 <p align="center">
   <a href="https://twitter.com/janithsuraweera?" target="_blank">
     <img src="https://img.shields.io/twitter/follow/janithsuraweera?logo=x&style=for-the-badge" alt="X Follow">
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+-->
+<p align="center">
+
   <a href="https://github.com/janithsuraweera?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers">
   </a>
