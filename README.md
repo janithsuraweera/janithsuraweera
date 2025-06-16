@@ -86,13 +86,14 @@
 
 </td>
     <td align="center">
-	      <!--Potfolio Button-->
-<p align="center">
+    <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
+
+<!--Potfolio Button-->
+  <p align="center">
   <a href="https://janithsuraweera.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/ View%20My%20Portfolio-blueviolet?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
-    <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
   </td>
 </tr>
 </table>
