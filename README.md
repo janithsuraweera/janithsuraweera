@@ -1,11 +1,10 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=39C71A&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera" alt="Typing SVG">
   </a>
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=700&color=F7F7F&center=true&width=500&height=50&lines=Ui%2FUx+Design;Software+Development;Web+Development" alt="Typing SVG">
@@ -22,12 +21,16 @@
 <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="Click to open Portfolio" style="cursor:pointer; width:auto;">
 </a>
 
-
-
 <h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=janithsuraweera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=janithsuraweera&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin-right:10;" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/janithsuraweera?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers" />
+  </a>
 </p>
 
 <!--
@@ -37,19 +40,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 -->
-<p align="center">
 
-  <a href="https://github.com/janithsuraweera?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers">
-  </a>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me
-
-
 
 <table>
 <tr>
@@ -86,7 +80,7 @@
 
 </td>
     <td align="center">
-    <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
+    <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation"><br>
 
 <!--Potfolio Button-->
   <p align="center">
