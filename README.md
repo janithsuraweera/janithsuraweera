@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=39C71A&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera" alt="Typing SVG">
@@ -41,7 +43,7 @@
     <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers">
   </a>
   
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 
@@ -63,24 +65,35 @@
     </ul>
  -->
 
-
+<!--
 - 🔭 **Currently working on:** [MR.Veg](https://github.com/janithsuraweera/MR.Veg) – A smart marketplace for fresh produce.
-- 🌱 **Currently learning:** Android, iOS, Flutter, React, Node.js, Appwrite
+
+-->
+- 🌱 **Currently learning:** Flutter,React,Node.js,Swift,Next.js, Docker, Firebase,Appwrite
 - 🧠 **Exploring:** Backend architecture, UI/UX design, cross-platform mobile development
 - 🚀 **Latest Projects:**
   - 🚗 [Vehical-Service](https://github.com/janithsuraweera/Vehical-Service) – developing vehical service center.using React.js.
   - 🌿 [Sprout Hub](https://github.com/janithsuraweera/Sprout_Hub) – Urban farming community and marketplace platform.
   - 🎙️ [Auto-text-to-voice-reader](https://github.com/janithsuraweera/Auto-text-to-voice-reader) – Auto-text-to-voice-reader in English.
   - 🖐️ [Hand gesture recognition tool](https://github.com/janithsuraweera/keyboard_app) – Hand gesture recognition tool.
-  - 📱 [Android Keyboard](https://github.com/janithsuraweera/keyboard_app) – Fully customizable material-style keyboard with popup previews.
-  - 🎯 [CCTV Quotation System](https://github.com/janithsuraweera/cctv-quotation-system) – Generate custom quotations with PDF support.
 
+<!-- 
+  - 🎯 [CCTV Quotation System](https://github.com/janithsuraweera/cctv-quotation-system) – Generate custom quotations with PDF support.
+- 📱 [Android Keyboard](https://github.com/janithsuraweera/keyboard_app) – Fully customizable material-style keyboard with popup previews.-->
     
 - 💬 **Ask me about:** Web Development, Mobile Apps, REST APIs, Firebase, MongoDB
 - 📫 **Contact me at:** [janithsuraweera7@gmail.com](mailto:janithsuraweera7@gmail.com)
-- ⚡ **Fun fact:** I turn coffee into code — and bugs into features 😄
-   
-  </td>
+
+
+  <!--Potfolio Button-->
+<p align="center">
+  <a href="https://janithsuraweera.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/ View%20My%20Portfolio-blueviolet?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/>
+  </a>
+</p>
+
+
+</td>
     <td align="center">
     <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
   </td>
@@ -91,20 +104,46 @@
 ---
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <!-- Web & Mobile -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+  <!-- Backend & APIs -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 
 ---
+
 
 <h2 align="center">💻 Languages & Tools:</h2>
 <p align="center">
@@ -214,9 +253,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-	
 <table align="center">
-
 <tr border="none">
 <td width="50%" align="center">
 
@@ -225,25 +262,29 @@
 -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=janithsuraweera&show_icons=true&theme=radical&border_radius=10&hide_border=true" width="auto" alt="GitHub Stats"/>
-
+<br><br>
 <!--GitHub Streak-->
 
 <!--<img align="center"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsuraweera" alt="GitHub Streak"/>-->
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithsuraweera&theme=dark" alt="GitHub Streak" />
-
 </td>
 
-
 <td width="50%" align="center">
-
 <!--<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=janithsuraweera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   <p align="center">-->
 	  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithsuraweera&layout=compact&theme=radical&border_radius=10&hide_border=true" width="auto" height="auto" />
+
+<p align="center">
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=janithsuraweera&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+    alt="GitHub Contributor Stats" 
+    height="160"
+    width="auto"
+  />
 </p>
 </td>
-
 </table>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
