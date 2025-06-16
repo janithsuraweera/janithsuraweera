@@ -84,17 +84,14 @@
 - 💬 **Ask me about:** Web Development, Mobile Apps, REST APIs, Firebase, MongoDB
 - 📫 **Contact me at:** [janithsuraweera7@gmail.com](mailto:janithsuraweera7@gmail.com)
 
-
-  <!--Potfolio Button-->
+</td>
+    <td align="center">
+	      <!--Potfolio Button-->
 <p align="center">
   <a href="https://janithsuraweera.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/ View%20My%20Portfolio-blueviolet?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
-
-
-</td>
-    <td align="center">
     <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Right_Side.gif?raw=true" width="60%" alt="Right Side Animation">
   </td>
 </tr>
@@ -146,7 +143,10 @@
 
 
 <h2 align="center">💻 Languages & Tools:</h2>
-<p align="center">
+
+<details>
+  <summary><b> View Icons </b></summary>
+  <br/>
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -246,6 +246,8 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/janithsuraweera/Skill-Icons/blob/main/unity.png" alt="Unity" width="40" height="40" />
   </a>
+
+  </details>
 </p>
 
 
