@@ -391,7 +391,11 @@
 <h2 align="center">☕ Support Me</h2>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/janithsuraweera1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=janithsuraweera1&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" height="50" /></a>
+<a href="https://www.buymeacoffee.com/janithsuraweera1">
+	<img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/08f1cf468ace518fc8cc9e352a2e613f.png" height="50" />
+</a>
 </p>
+
+
 
 
