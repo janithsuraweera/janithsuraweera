@@ -305,6 +305,16 @@
 
 ---
 
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janithsuraweera&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+</p>
+<!-- Profile Summary Cards -->
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janithsuraweera&theme=tokyonight" />
+</p>
+
+---
 
 <!--A Snake Eating My Contributions Graph-->
 <h2 align="center">🐍 A Snake Eating My Contributions Graph</h2>
@@ -318,6 +328,7 @@
   box-shadow: 0 8px 20px rgba(37, 117, 252, 0.6);
   border: 3px solid #fff;
 ">
+	
 
   <img
     alt="GitHub contribution snake animation"
@@ -332,6 +343,7 @@
 
 ## <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Connect-with-me.gif?raw=true" width="150px"> Connect with me
 <br>
+
 
 
 <!-- <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
