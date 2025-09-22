@@ -79,7 +79,6 @@
         </td>
         <td>
           <a href="https://github.com/janithsuraweera/janithsuraweera/blob/master/sources/awesome.md">
-			  https://github.com/janithsuraweera/janithsuraweera/tree/main
             <img src="https://awesome.re/badge.svg" alt="Awesome"/>
           </a>
         </td>
