@@ -1,3 +1,4 @@
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
@@ -10,6 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=700&color=F7F7F&center=true&width=500&height=50&lines=Ui%2FUx+Design;Software+Development;Web+Development" alt="Typing SVG">
   </a>
 </p>
+
 
 <!--
 <p align="center">
@@ -43,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <table>
 <tr>
@@ -393,6 +395,8 @@
 
 <br>
 
+
+ 
 <!--<h3 align="center">Support:</h3>
 <p align="center">
   
@@ -405,6 +409,9 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/janithsuraweera1">
 	<img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/08f1cf468ace518fc8cc9e352a2e613f.png" height="50" />
+	
+
+ 
 </a>
 </p>
 
