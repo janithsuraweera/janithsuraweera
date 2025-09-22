@@ -78,7 +78,7 @@
           </a>
         </td>
         <td>
-          <a href="https://github.com/janithsuraweera/janithsuraweera/blob/master/sources/awesome.md">
+          <a href="https://github.com/janithsuraweera/janithsuraweera/blob/master/awesome.md">
             <img src="https://awesome.re/badge.svg" alt="Awesome"/>
           </a>
         </td>
