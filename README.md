@@ -1,17 +1,23 @@
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
 <p align="center">
+
+  <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=&weight=700&size=30&pause=700&color=39C71A&background=FF050500&center=true&multiline=true&width=510&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Suraweera" alt="Typing SVG">
   </a>
+
+  <img src="https://github.com/WebXDAO/.github/assets/73097560/2f2f4777-292d-4eaf-9ecd-87d0fb8142a6" width="60px">
+
+
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=700&color=F7F7F&center=true&width=500&height=50&lines=Ui%2FUx+Design;Software+Development;Web+Development" alt="Typing SVG">
   </a>
 </p>
-
 
 <!--
 <p align="center">
@@ -23,9 +29,12 @@
 <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="Click to open Portfolio" style="cursor:pointer; width:auto;">
 </a>
 
-<h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
+<!-- 
+<h3  align="center"> -->
 
-<p align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
+
+<!-- <p align="center">
   <a>
     <img src="https://komarev.com/ghpvc/?username=janithsuraweera&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin-right:10;" />
   </a>
@@ -33,7 +42,51 @@
   <a href="https://github.com/janithsuraweera?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/janithsuraweera?logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
-</p>
+</p> -->
+
+<div align="center">
+  <table align="center">
+    <thead align="center">
+      <tr>
+        <td><b>👀 Profile Views</b></td>
+        <td><b>👤 Followers</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+        <td><b>✅ Awesome</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/janithsuraweera">
+            <img src="https://komarev.com/ghpvc/?username=janithsuraweera&style=flat-square&color=blue" alt="Profile Views"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/janithsuraweera">
+            <img src="https://img.shields.io/github/followers/janithsuraweera?label=Followers&style=social" alt="GitHub Followers"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/janithsuraweera">
+            <img src="https://img.shields.io/github/stars/janithsuraweera?label=Stars&style=social" alt="GitHub Stars"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/janithsuraweera/Opensource-practice/pulls">
+            <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/janithsuraweera/janithsuraweera/blob/master/sources/awesome.md">
+            <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <!--
 <p align="center">
@@ -45,7 +98,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =10%> About me
 
 <table>
 <tr>
@@ -395,8 +448,6 @@
 
 <br>
 
-
- 
 <!--<h3 align="center">Support:</h3>
 <p align="center">
   
@@ -409,9 +460,6 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/janithsuraweera1">
 	<img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/08f1cf468ace518fc8cc9e352a2e613f.png" height="50" />
-	
-
- 
 </a>
 </p>
 
