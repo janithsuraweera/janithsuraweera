@@ -29,10 +29,11 @@
 <img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/Gifs/back.png" alt="Click to open Portfolio" style="cursor:pointer; width:auto;">
 </a>
 
-<!-- 
-<h3  align="center"> -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
+<h3  align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" align="center" />A passionate Frontend & Backend Developer from Sri Lanka 🌍</h3>
+
 
 <!-- <p align="center">
   <a>
