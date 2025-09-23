@@ -56,35 +56,40 @@
         <td><b>✅ Awesome</b></td>
       </tr>
     </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github.com/janithsuraweera">
-            <img src="https://komarev.com/ghpvc/?username=janithsuraweera&style=flat-square&color=blue" alt="Profile Views"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/janithsuraweera">
-            <img src="https://img.shields.io/github/followers/janithsuraweera?label=Followers&style=social" alt="GitHub Followers"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/janithsuraweera">
-            <img src="https://img.shields.io/github/stars/janithsuraweera?label=Stars&style=social" alt="GitHub Stars"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/janithsuraweera/Opensource-practice/pulls">
-            <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/janithsuraweera/janithsuraweera/blob/master/awesome.md">
-            <img src="https://awesome.re/badge.svg" alt="Awesome"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
+<tbody>
+  <tr>
+    <!-- Profile Views -->
+    <td>
+      <a href="https://github.com/janithsuraweera">
+        <img src="https://komarev.com/ghpvc/?username=janithsuraweera&style=flat-square&color=blue" alt="Profile Views"/>
+      </a>
+    </td>
+    <!-- Followers (Real Count) -->
+    <td>
+      <a href="https://github.com/janithsuraweera?tab=followers">
+        <img src="https://img.shields.io/github/followers/janithsuraweera?label=Followers&style=flat-square&color=brightgreen" alt="GitHub Followers"/>
+      </a>
+    </td>
+    <!-- Stars (Real Count from all repos) -->
+    <td>
+      <a href="https://github.com/janithsuraweera?tab=repositories">
+        <img src="https://img.shields.io/github/stars/janithsuraweera?affiliations=OWNER&label=Stars&style=flat-square&color=yellow" alt="GitHub Stars"/>
+      </a>
+    </td>
+    <!-- Pull Requests (to repo example) -->
+    <td>
+      <a href="https://github.com/janithsuraweera/Opensource-practice/pulls">
+        <img src="https://img.shields.io/github/issues-pr/recodehive/Opensource-practice" alt="Pull Requests Badge"/>
+      </a>
+    </td>
+    <!-- Awesome Badge -->
+    <td>
+      <a href="https://github.com/janithsuraweera/janithsuraweera/blob/master/awesome.md">
+        <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+      </a>
+    </td>
+  </tr>
+</tbody>
   </table>
 </div>
 
