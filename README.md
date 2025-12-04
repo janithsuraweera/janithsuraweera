@@ -150,7 +150,7 @@ focused on delivering high-quality, impactful software solutions
 
 <!--Potfolio Button-->
   <p align="center">
-  <a href="https://janithsuraweera.github.io/Portfolio/" target="_blank">
+  <a href="https://portfolio-sigma-dun-acgfsw9kor.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/ View%20My%20Portfolio-blueviolet?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
