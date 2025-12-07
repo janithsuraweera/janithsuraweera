@@ -434,9 +434,15 @@ focused on delivering high-quality, impactful software solutions
 </p> -->
 
 <p align="center">
-  <a href="https://github.com/janithsuraweera" target="_blank">
+  <!-- <a href="https://github.com/janithsuraweera" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  </a> -->
+
+
+<a href="https://www.kaggle.com/janithsuraweera" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
+	
   <a href="https://www.linkedin.com/in/janith-suraweera-510888203" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -473,6 +479,15 @@ focused on delivering high-quality, impactful software solutions
 	<img src="https://github.com/janithsuraweera/janithsuraweera/blob/main/08f1cf468ace518fc8cc9e352a2e613f.png" height="50" />
 </a>
 </p>
+
+
+
+
+<!-- <div align="center"b auto update>
+  <a href="https://www.kaggle.com/janithsuraweera" target="_blank">
+    <img src="https://kaggle-github-stats.vercel.app/api?username=janithsuraweera&pixel=true" alt="Janith's Kaggle Stats">
+  </a>
+</div> -->
 
 
 
