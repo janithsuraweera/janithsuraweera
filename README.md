@@ -439,7 +439,7 @@ focused on delivering high-quality, impactful software solutions
   </a> -->
 
 
-<a href="https://www.kaggle.com/janithsuraweera" target="_blank">
+<a href="https://www.kaggle.com/suraweera" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
 </a>
 	
